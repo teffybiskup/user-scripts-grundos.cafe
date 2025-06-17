@@ -1,7 +1,7 @@
 # <samp>Teffy's Scripts for Grundo's Cafe</samp>
 
 <div align="center">
-  <img src="https://www.grundos.cafe/static/images/misc/index/rollover.2fc768fe45ab.gif" alt="Logo">
+  <img src="https://i.imgur.com/RRt6YzA.gif" alt="Logo">
 </div>
 
 <br>
